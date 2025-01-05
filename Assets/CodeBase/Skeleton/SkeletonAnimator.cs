@@ -4,7 +4,7 @@ namespace CodeBase.Skeleton
 {
     public class SkeletonAnimator : MonoBehaviour
     {
-        private static readonly int Attack = Animator.StringToHash("Attack");
+        private static readonly int Attack = Animator.StringToHash("Attack1");
         
         private Animator _animator;
 
