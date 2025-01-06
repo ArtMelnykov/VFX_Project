@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ShaderMaterial
+  m_Name: ShaderMaterial_2
   m_Shader: {fileID: -6465566751694194690, guid: 8603b0dc0bba1864f8d5b228d52c066d, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -61,7 +61,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
-        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Texture: {fileID: 2800000, guid: 0a460ad9d6ba7754d8e4652ca016870a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -94,7 +94,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DisolveScale: 35
-    - _DisolveSpeed: -0.5
+    - _DisolveSpeed: -1
     - _DstBlend: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -112,8 +112,8 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color01: {r: 0.4792453, g: 0.1076041, b: 0.1186448, a: 0}
-    - _Color02: {r: 0.164578, g: 0.2248296, b: 0.7584905, a: 0}
+    - _Color01: {r: 0.54901963, g: 0.22111003, b: 0.054901943, a: 0}
+    - _Color02: {r: 0.40392157, g: 0.058823533, b: 0.09890252, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Speed: {r: -0.1, g: 0, b: 0, a: 0}
+    - _Speed: {r: -0.3, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
