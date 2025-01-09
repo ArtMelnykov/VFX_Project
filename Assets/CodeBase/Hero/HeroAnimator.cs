@@ -2,10 +2,11 @@
 
 namespace CodeBase.Hero
 {
+    [RequireComponent(typeof(Animator))]
     public class HeroAnimator : MonoBehaviour
     {
+        [Header("Parameters")]
         private static readonly int Attack = Animator.StringToHash("Attack01");
-        
         private Animator _animator;
 
         private void Awake() => 
