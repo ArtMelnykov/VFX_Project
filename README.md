@@ -12,10 +12,10 @@ Explore Unity's tools for developing combat visual effects, improve integration 
 
 Recommended version of Unity - 2022.3.51f1
 
-## View from Scene:
+## View from Game Mode:
 ![](https://github.com/ArtMelnykov/VFX_Project/blob/main/GIF_Example_1.gif)
 
-## View from Game Mode:
+## View from Scene:
 ![](https://github.com/ArtMelnykov/VFX_Project/blob/main/GIF_Example_2.gif)
 
 
